@@ -3,11 +3,6 @@
 ### sepia
 
 <p align="center">
-  <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-    <!-- Сначала центрируем систему координат, затем поворачиваем -->
-    <g transform="translate(150,150) rotate(45) translate(-150,-150)">
-      <image href="images/noir.png" width="300" height="300" alt="Пример картинки"/>
-    </g>
-  </svg>
+  <img src="images/sepia.png" alt="Пример картинки" style="width:300px; transform: rotate(45deg);">
 </p>
 
