@@ -3,5 +3,5 @@
 ### sepia
 
 <p align="center">
-  <img src="images/noir.png" alt="Пример картинки" style="width:300px; height:300px; transform: rotate(45deg);">
+  <img src="images/noir.png" alt="Пример картинки" style="width:-300px; height:300px; transform: rotate(45deg);">
 </p>
