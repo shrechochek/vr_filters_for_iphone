@@ -2,6 +2,6 @@
 ## filters available
 ### sepia
 <p align="center">
-  <img src="images/noir.png" width="200" style="transform: rotate(180deg);">
+  <img src="images/noir.png" width="200" style="transform: rotate(-180deg);">
 </p>
 
