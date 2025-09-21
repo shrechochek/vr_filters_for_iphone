@@ -1,6 +1,6 @@
 # this project will allow you to see the world through filters
 ## filters available
-### sepia noir pixel blur invert
+###     sepia     noir     pixel     blur     invert
 
 <p align="left">
   <img src="images/sepia.jpg" alt="Пример картинки" style="width:180px; transform: rotate(45deg);">
